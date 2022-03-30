@@ -1,0 +1,70 @@
+{
+   "Result":{
+      "ResultType":0,
+      "ResultCode":0,
+      "ResultDesc":"The service request is processed successfully.",
+      "OriginatorConversationID":"87013-42228644-1",
+      "ConversationID":"AG_20220223_202045b5bc95ffbbd633",
+      "TransactionID":"QBN0000000",
+      "ResultParameters":{
+         "ResultParameter":[
+            {
+               "Key":"DebitPartyName",
+               "Value":"254714730671 - JOSEPH GITAU"
+            },
+            {
+               "Key":"CreditPartyName",
+               "Value":"4087119 -   MABE TWINKLING STARS SCHOOL         "
+            },
+            {
+               "Key":"OriginatorConversationID",
+               "Value":"70416dcc-9fac-4fe7-813a-bb254fc0d65c"
+            },
+            {
+               "Key":"InitiatedTime",
+               "Value":20220222235952
+            },
+            {
+               "Key":"CreditPartyCharges"
+            },
+            {
+               "Key":"DebitAccountType",
+               "Value":"MMF Account For Customer"
+            },
+            {
+               "Key":"TransactionReason"
+            },
+            {
+               "Key":"ReasonType",
+               "Value":"Pay Bill Online"
+            },
+            {
+               "Key":"TransactionStatus",
+               "Value":"Completed"
+            },
+            {
+               "Key":"FinalisedTime",
+               "Value":20220222235952
+            },
+            {
+               "Key":"Amount",
+               "Value":10.00
+            },
+            {
+               "Key":"ConversationID",
+               "Value":"AG_20220222_201017b268651f5459f3"
+            },
+            {
+               "Key":"ReceiptNo",
+               "Value":"QBM8LBOVRO"
+            }
+         ]
+      },
+      "ReferenceData":{
+         "ReferenceItem":{
+            "Key":"Occasion",
+            "Value":"Monday"
+         }
+      }
+   }
+}

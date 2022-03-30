@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "message": "Messages queued for sending",
+    "data": {
+        "messageCount": 1,
+        "sentAt": "2021-12-02 14:56:52",
+        "messages": {
+            "safaricom": [
+                {
+                    "network": "safaricom",
+                    "messageCount": 1,
+                    "recipient": 254714730671,
+                    "externalMessageId": "a1d2a3b67f0a4e50aa5eacb9a1762b25",
+                    "messageId": "c7ca16e5c50fe0a0ad4af6a43ddf324c21a1c81k",
+                    "status": "QUEUED"
+                }
+            ]
+        },
+        "rejected": [
+            {
+                "status": "REJECTED",
+                "network": "finserve",
+                "reason": "Network operator is not supported",
+                "messageId": "b32118a280364c8991964d8ea77d7d6a",
+                "recipient": 254763730671,
+                "errorCode": "ER001"
+            }
+        ]
+    },
+    "requestId": "7b90e2f15cc7ac3301c5d8bc610506ce8d06ef45"
+}

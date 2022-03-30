@@ -1,0 +1,11 @@
+Changes Made to Database
+
+15/11/2021
+Added primary_contact, secondary_contact and primary_email to parent_details db for sms purposes
+Added send_to column to students table
+Added column type and set main_fee for tuition fee in fee_parameter
+Deleted phoneno and email from students table
+
+Added current_session_id to students
+
+Added client_connection and coop_payment db tables
